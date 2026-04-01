@@ -1,0 +1,4 @@
+discount_band,total_sales,total_profit,profit_margin_pct,order_count
+"No Discount",1072777.32,317184.35,29.57,4657
+"Low (1-20%)",838235.26,99828.30,11.91,3693
+"High (40%+)",361437.49,-134154.19,-37.12,1344
